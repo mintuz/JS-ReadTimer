@@ -1,7 +1,7 @@
 /*
  * ReadTimer
  * Author: Forepoint
- * Version: 0.1b
+ * Version: 1.0
  * Website: http://forepoint.co.uk
  * 
  * Highly inspired on the Information Architects Blog 
