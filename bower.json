@@ -1,0 +1,26 @@
+{
+  "name": "ReadTimer",
+  "main": "ReadTimer.js",
+  "version": "1.0",
+  "authors": [
+    "Forepoint <webteam@forepoint.co.uk>"
+  ],
+  "description": "A plugin to calculate the remaining reading time of a blog post insired by the information architects blog",
+  "keywords": [
+    "jQuery",
+    "plugin",
+    "remaining",
+    "time",
+    "functionality",
+    "blog"
+  ],
+  "license": "MIT",
+  "homepage": "http://forepoint.co.uk",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
